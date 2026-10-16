@@ -12,6 +12,7 @@ Desde 2025, venho aprofundando meu trabalho em soluções que integram interface
 
 Desenvolvo sistemas, interfaces e automações com foco em aplicações reais. Entre os trabalhos que desenvolvo estão a **ST4**, uma ferramenta com experiências baseadas em **IA**, como o **ST4.AI**. 
 CRM Merion Connect, sistema da empresa <a class="company-link" href="https://merionglobal.com/" target="_blank" rel="noopener noreferrer">Merion Global Logistics</a>. 
+
 Mais do que criar funcionalidades, busco enfrentar desafios técnicos, elevar o padrão das soluções e contribuir para resultados concretos.
 
 ```js
@@ -44,7 +45,7 @@ const nhdangelo = {
 | :--- | :--- | :--- |
 | **[ST4](https://st4global.com/)** | Ecossistema de tecnologia e produtos digitais | Software · Web · Automation |
 | **[ST4.AI](https://st4global.com/c/)** | Plataforma de inteligência artificial em desenvolvimento | AI Systems · Agents · Interfaces |
-| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a [Merion Global Logistics](https://merionglobal.com/) | CRM · Software Engineering · Logistics |
+| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a Merion Global Logistics. | CRM · Software Engineering · Logistics |
 | **[PORTFÓLIO](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
 
 <img src="./assets/section-04.svg" width="100%" alt="Em desenvolvimento" />
