@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=E5E5E5&center=true&vCenter=true&width=900&lines=Software+Engineering+%2F+AI+Systems;Automation+%2F+Digital+Products;ST4+%2F+ST4.AI" alt="Áreas de atuação" />
+<img src="./assets/typing.svg" width="94%" alt="Software Engineering, AI Systems e Automation" />
 
 </div>
 
@@ -33,7 +33,7 @@ const nhdangelo = {
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, Nginx, VS Code" />
 
-<sub>Tecnologias utilizadas ou exploradas em projetos; não representam certificações.</sub>
+
 
 </div>
 
@@ -43,9 +43,10 @@ const nhdangelo = {
 | :--- | :--- | :--- |
 | **[ST4](https://st4global.com/)** | Ecossistema de tecnologia e produtos digitais | Software · Web · Automation |
 | **[ST4.AI](https://st4global.com/c/)** | Plataforma de inteligência artificial em desenvolvimento | AI Systems · Agents · Interfaces |
-| **[Portfólio](https://st4global.com/nhdangelo@portfolio/)** | Apresentação profissional e projetos | Frontend · UI · Web |
+| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a [Mérion Global Logistics](https://merionglobal.com/) | CRM · Software Engineering · Logistics |
+| **[Portfólio](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
 
-<sub>Parte do desenvolvimento acontece em repositórios privados.</sub>
+<sub>O CRM MERION CONNECT é um projeto interno; o link da Mérion leva ao site institucional da empresa, não ao CRM.</sub>
 
 <img src="./assets/section-04.svg" width="100%" alt="Em desenvolvimento" />
 
@@ -58,19 +59,15 @@ const nhdangelo = {
 [+] Engineering | Development & deployment
 ```
 
-**Interesses técnicos:** Software Engineering, Security Research, Pentest, Reverse Engineering e AI. Interesses não implicam certificações ou experiência profissional nessas especialidades.
+
 
 <img src="./assets/section-05.svg" width="100%" alt="GitHub Analytics" />
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nhdangelo&show_icons=true&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB&icon_color=FFFFFF" height="170" alt="GitHub Stats" />
+<a href="https://github.com/nhdangelo?tab=overview&from=2026-01-01&to=2026-12-31"><img src="https://github-readme-stats.vercel.app/api?username=nhdangelo&show_icons=true&hide_border=true&bg_color=080808&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF&cache_seconds=21600" width="58%" alt="Estatísticas públicas do GitHub" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdangelo&layout=compact&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=BBBBBB" height="170" alt="Linguagens mais usadas nos repositórios públicos" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nhdangelo&bg_color=000000&color=FFFFFF&line=BDBDBD&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Gráfico de atividade pública" />
+<sub>O histórico de contribuições e repositórios públicos pode ser consultado diretamente no <a href="https://github.com/nhdangelo">GitHub</a>.</sub>
 
 </div>
 
@@ -78,10 +75,12 @@ const nhdangelo = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://st4global.com/nhdangelo@portfolio/)
-[![ST4](https://img.shields.io/badge/ST4-111111?style=for-the-badge&logoColor=white)](https://st4global.com/)
-[![ST4.AI](https://img.shields.io/badge/ST4.AI-111111?style=for-the-badge&logoColor=white)](https://st4global.com/c/)
+<a href="https://st4global.com/nhdangelo@portfolio/"><img src="https://img.shields.io/badge/PORTFÓLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000" alt="Portfólio" /></a>
+<a href="https://st4global.com/"><img src="https://img.shields.io/badge/ST4-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="ST4" /></a>
+<a href="https://st4global.com/c/"><img src="https://img.shields.io/badge/ST4.AI-111111?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000" alt="ST4.AI" /></a>
 
-<sub>Desenvolvido pela <a href="https://st4global.com/">ST4</a> com ajuda do <a href="https://st4global.com/c/">ST4.AI</a>.</sub>
+<br/><br/>
+
+<sub>Desenvolvido pela <a href="https://st4global.com/">ST4</a> com ajuda do <a href="https://st4global.com/c/">ST4.AI</a></sub>
 
 </div>
