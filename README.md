@@ -2,9 +2,6 @@
 
 <img src="./assets/banner.svg" width="100%" alt="Noah D'Angelo — ST4 / ST4.AI" />
 
-<br/>
-
-<img src="./assets/typing.svg" width="94%" alt="Software Engineering, AI Systems e Automation" />
 
 </div>
 
@@ -58,6 +55,16 @@ const nhdangelo = {
 [+] Automation  | Integrations & workflows
 [+] Engineering | Development & deployment
 ```
+
+<div align="center">
+
+<br/>
+
+<img src="./assets/typing.svg" width="100%" alt="Terminal ST4 com typing e efeito glitch" />
+
+<br/>
+
+</div>
 
 
 
