@@ -7,7 +7,7 @@
 
 <img src="./assets/section-01.svg" width="100%" alt="Sobre mim" />
 
-Desenvolvo sistemas, interfaces e automações com foco em aplicações reais. Trabalho no ecossistema **ST4**, incluindo o desenvolvimento de produtos e experiências com **AI**, como o **ST4.AI**.
+Desenvolvo sistemas, interfaces e automações com foco em aplicações reais. Trabalho no ecossistema **ST4**, incluindo o desenvolvimento de produtos e experiências com **IA**, como o **ST4.AI**.
 
 ```js
 const nhdangelo = {
@@ -40,8 +40,8 @@ const nhdangelo = {
 | :--- | :--- | :--- |
 | **[ST4](https://st4global.com/)** | Ecossistema de tecnologia e produtos digitais | Software · Web · Automation |
 | **[ST4.AI](https://st4global.com/c/)** | Plataforma de inteligência artificial em desenvolvimento | AI Systems · Agents · Interfaces |
-| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a [Mérion Global Logistics](https://merionglobal.com/) | CRM · Software Engineering · Logistics |
-| **[Portfólio](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
+| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a [Merion Global Logistics](https://merionglobal.com/) | CRM · Software Engineering · Logistics |
+| **[PORTFÓLIO](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
 
 <sub>O CRM MERION CONNECT é um projeto interno; o link da Mérion leva ao site institucional da empresa, não ao CRM.</sub>
 
