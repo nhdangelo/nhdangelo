@@ -48,8 +48,6 @@ const nhdangelo = {
 | **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a [Merion Global Logistics](https://merionglobal.com/) | CRM · Software Engineering · Logistics |
 | **[PORTFÓLIO](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
 
-<sub>O CRM MERION CONNECT é um projeto interno; o link da Mérion leva ao site institucional da empresa, não ao CRM.</sub>
-
 <img src="./assets/section-04.svg" width="100%" alt="Em desenvolvimento" />
 
 ```text
