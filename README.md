@@ -45,10 +45,10 @@ const nhdangelo = {
 | :--- | :--- | :--- |
 | **[ST4](https://st4global.com/)** | Ecossistema de tecnologia e produtos digitais | Software · Web · Automation |
 | **[ST4.AI](https://st4global.com/c/)** | Plataforma de inteligência artificial em desenvolvimento | AI Systems · Agents · Interfaces |
-| **CRM | MERION CONNECT** | Sistema interno em desenvolvimento para a Merion Global Logistics. | CRM · Software Engineering · Logistics |
+| **CRM MERION CONNECT** | Sistema interno em desenvolvimento para a Merion Global Logistics. | CRM · Software Engineering · Logistics |
 | **[PORTFÓLIO](https://st4global.com/nhdangelo@portfolio/)** | Portfólio pessoal | Frontend · UI · Web |
 
-<sub>O atalho pra acessar CRM | MERION CONNECT está indisponível por razões legais e autorais.</sub>
+<sub> **NOTA**: O atalho pra acessar **CRM | MERION CONNECT** está indisponível por __razões legais e autorais__.</sub>
 
 <img src="./assets/section-04.svg" width="100%" alt="Em desenvolvimento" />
 
