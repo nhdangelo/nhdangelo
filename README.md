@@ -35,8 +35,6 @@ const nhdangelo = {
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,vscode&theme=dark" alt="Git, GitHub, Docker, Linux, Nginx, VS Code" />
 
-
-
 </div>
 
 <img src="./assets/section-03.svg" width="100%" alt="Projetos" />
