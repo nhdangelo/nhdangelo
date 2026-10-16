@@ -91,6 +91,6 @@ const nhdangelo = {
 
 <br/><br/>
 
-<sub>Desenvolvido pela <a href="https://st4global.com/">ST4</a> com ajuda do <a href="https://st4global.com/c/">ST4.AI</a></sub>
+<sub>Desenvolvido pela <a href="https://st4global.com/">ST4</a> com ajuda do <a href="https://ai.st4.com">ST4.AI</a></sub>
 
 </div>
