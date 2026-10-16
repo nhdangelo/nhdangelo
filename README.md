@@ -37,6 +37,7 @@ const nhdangelo = {
 
 </div>
 
+
 <img src="./assets/section-03.svg" width="100%" alt="Projetos" />
 
 | Projeto | Descrição | Áreas |
