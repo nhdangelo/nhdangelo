@@ -10,9 +10,9 @@
 Sou Noah D’Angelo, desenvolvedor Full Stack e fundador da ST4. Minha trajetória é movida pela programação, pelo desenvolvimento de sistemas e pelo interesse em tecnologias de automação responsiva.
 Desde 2025, venho aprofundando meu trabalho em soluções que integram interfaces, sistemas, APIs e infraestrutura. Meu foco é criar experiências úteis, confiáveis e capazes de evoluir junto com as necessidades de cada projeto.
 
-Atualmente trabalho no ecossistema **ST4**, incluindo o desenvolvimento de produtos e experiências com **IA**, como o **ST4.AI**. CRM Merion Connect, sistema da empresa <a class="company-link" href="https://merionglobal.com/" target="_blank" rel="noopener noreferrer">Merion Global Logistics</a>. Mais do que criar funcionalidades, busco enfrentar desafios técnicos, elevar o padrão das soluções e contribuir para resultados concretos.
-
-Desenvolvo sistemas, interfaces e automações com foco em aplicações reais. Trabalho no ecossistema **ST4**, incluindo o desenvolvimento de produtos e experiências com **IA**, como o **ST4.AI**.
+Desenvolvo sistemas, interfaces e automações com foco em aplicações reais. Entre os trabalhos que desenvolvo estão a **ST4**, uma ferramenta com experiências baseadas em **IA**, como o **ST4.AI**. 
+CRM Merion Connect, sistema da empresa <a class="company-link" href="https://merionglobal.com/" target="_blank" rel="noopener noreferrer">Merion Global Logistics</a>. 
+Mais do que criar funcionalidades, busco enfrentar desafios técnicos, elevar o padrão das soluções e contribuir para resultados concretos.
 
 ```js
 const nhdangelo = {
